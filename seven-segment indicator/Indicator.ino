@@ -1,3 +1,5 @@
+// arduino.robotics-club.com.ru
+
 int pins[8] = { 11, 10, 9, 8, 7, 6, 5, 4 };
 byte numbers[10] = {
   B11111100, B01100000, B11011010, B11110010, B01100110,
